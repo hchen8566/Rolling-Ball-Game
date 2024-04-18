@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redre\\Ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redre\\Ball\\Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redre\\Ball\\Assets\\Scripts\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\redre\\Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\redre\\Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:53:03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "C:\\Users\\redre\\Ball\\Assets\\Scripts\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerController.cs",
+              "ToolTip": "C:\\Users\\redre\\Ball\\Assets\\Scripts\\playerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:52:09.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
