@@ -28,6 +28,14 @@ public class playerController : MonoBehaviour
 
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("PickUp"))
+        {
+            other.gameObject.SetActive(false);
+        }
+    }
+
     //Fixed Update
     void FixedUpdate()
     {
